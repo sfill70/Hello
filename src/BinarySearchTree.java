@@ -97,5 +97,6 @@ public class BinarySearchTree {
         tree.remove(3);
         tree.print();
         tree.remove(4);
+        System.out.println("conch");
     }
 }
